@@ -1,0 +1,8 @@
+{
+  "name": "Jioni Safaris",
+  "description": "Premium luxury booking marketplace, showcase, and agency platform for Tanzanian tourism, featuring role-based dashboards, multi-provider mobile payment flows, and interactive animal motion background.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
